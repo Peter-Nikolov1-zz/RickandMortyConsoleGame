@@ -13,3 +13,4 @@ C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMo
 C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\ref\RickAndMorty.dll
 C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.pdb
 C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.genruntimeconfig.cache
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.csproj.AssemblyReference.cache
