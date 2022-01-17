@@ -1,0 +1,15 @@
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\RickAndMorty.exe
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\RickAndMorty.deps.json
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\RickAndMorty.runtimeconfig.json
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\RickAndMorty.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\RickAndMorty.dll
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\ref\RickAndMorty.dll
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\bin\Debug\net5.0\RickAndMorty.pdb
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.AssemblyInfo.cs
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.dll
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\ref\RickAndMorty.dll
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.pdb
+C:\Users\nikol\source\repos\RickAndMorty\RickAndMorty\obj\Debug\net5.0\RickAndMorty.genruntimeconfig.cache
